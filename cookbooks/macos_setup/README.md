@@ -12,7 +12,6 @@
 ####Brew
 - [ ] Dotfile automation.
 - [ ] DMG program installation.
-	+ [ ] 
 	+ [ ] brew
 	+ [ ] kodi
 	+ [ ] idle 3
@@ -29,15 +28,11 @@
 	+ [ ] Install xcode developer command line tools :x #MAYBE
 - [ ] Security configuration
 - [ ] Program setups
-	+ [ ] 
 	+ [ ] kodi
 	+ [ ] vim
 	+ [ ] Tmux
 	+ [ ] iTerm 2
 	+ [ ] Fish
-
-
-- [ ] 
 
 # Author
 
