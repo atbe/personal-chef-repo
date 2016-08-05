@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #
 # Author:: Ibrahim Ahmed <ahmedibr@msu.edu>
-# Copyright:: Copyright (c) 2016, Ibrahim Ahmed 
+# Copyright:: Copyright (c) 2016, Ibrahim Ahmed
 # License:: Apache License, Version 2.0
 #
 # Licensed under the Apache License, Version 2.0 (the "License")
@@ -16,3 +16,11 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
+
+default['mac_os_x']['settings'] = {
+  # Set up my clock
+  'clock' => {
+    'domain' => 'com.apple.menuextra.clock',
+    'DateFormat' => 'EEE h:mm:ss'
+  }
+}
